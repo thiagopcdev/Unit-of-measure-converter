@@ -7,6 +7,6 @@ Interface that provides a quick conversion of measurement values.
 2. Enter the repository folder you just cloned:
   cd typescript
 3. Install the dependencies:
-  npm install
+  * `npm install`
 4. Run the program:
   npm start
